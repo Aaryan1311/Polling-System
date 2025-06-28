@@ -111,4 +111,4 @@ Pull requests and issues are welcome! For major changes, please open an issue fi
 ---
 
 ## 👨‍💼 Author
-**Saran Mani**
+**Aaryan Tripathi**
